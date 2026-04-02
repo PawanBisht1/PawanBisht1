@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pawan Bisht
 
 🎓 B.Tech CSE Student at Graphic Era Hill University  
-💻 iOS Developer | Full Stack Developer | Problem Solver  
 📍 Dehradun, India  
 
 ---
@@ -9,80 +8,44 @@
 ## 🚀 About Me
 - 🎯 Passionate about building scalable systems and clean UI-driven applications  
 - 📱 Currently part of an **iOS Developer Program (Apple & Infosys)**  
-- ⚡ Love working on **real-time systems, concurrency, and distributed apps**  
 - 🤝 Enjoy collaborating and building impactful products  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Java` `Swift` `JavaScript` `HTML` `CSS`  
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Frameworks & Libraries**  
-`UIKit` `React.js` `Socket.IO` `WebRTC` `Redis`  
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-**Tools & Platforms**  
-`Git` `Figma` `VS Code`  
-
-**Databases**  
-`SQL` `Supabase`  
-
----
-
-## 📱 Experience
-
-### iOS Developer Trainee  
-**iOS Development Centre (Apple & Infosys)**  
-_Aug 2025 – Present_
-
-- Built native iOS apps using **Swift & UIKit**  
-- Developed **10+ UI screens across 3 modules**  
-- Worked in a **4-member team** on real-world product development  
-- Followed **Apple Human Interface Guidelines**
-
----
-
-## 💼 Projects
-
-### 🔒 LockTix – Smart Ticket Concurrency System
-- Built high-concurrency booking system using **Redis + SQL**
-- Handled **1000+ concurrent requests**
-- Eliminated **double booking (100% accuracy)**
-- Implemented **TTL-based seat locking**
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
-
-### 🌐 Decentralized P2P Platform
-- Real-time messaging & file transfer using **WebRTC + Socket.IO**
-- Enabled communication between **5+ peers without servers**
-- Achieved **sub-second latency**
-
----
-
-### 📚 Library Management System
-- Managed **1000+ books & 200+ users**
-- Built using **Node.js + MySQL**
-- Created responsive admin dashboard
-- Reduced manual work by **40%**
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top 20 in **2 National-Level Hackathons**  
-- 🎯 Organized **2 Hackathons**  
-- 🎓 Infosys **Design Thinking Certification**
 
 ---
 
 ## 📫 Connect With Me
+- 📧 Email: bishtpawan63980@gmail.com     
 
-- 📧 Email: bishtpawan63980@gmail.com  
-- 📱 Phone: +91 6398015214  
-- 🔗 GitHub: https://github.com/PawanBisht1  
 
----
-
-## ⚡ Fun Fact
-I enjoy building systems that handle **real-world scale problems**, especially concurrency and real-time communication 🚀
