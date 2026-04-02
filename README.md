@@ -31,7 +31,6 @@ I enjoy building practical projects and learning through hands-on development. I
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
   <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
