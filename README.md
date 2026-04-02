@@ -1,15 +1,18 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e293b,65:1d4ed8,100:38bdf8&text=Pawan%20Bisht&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58" width="100%" />
+
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=93C5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Building+Apps+and+Practical+Projects;Always+Learning+by+Doing" alt="Typing SVG" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Dehradun-111827?style=for-the-badge&logo=google-scholar&logoColor=white" />
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1D4ED8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Graduation-2027-0EA5E9?style=for-the-badge" />
 
 <br><br>
-</div>
-
 ---
 
 ## About
