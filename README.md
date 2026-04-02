@@ -1,37 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e293b,65:1d4ed8,100:38bdf8&text=Pawan%20Bisht&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0b1120,25:172554,55:1d4ed8,100:38bdf8&text=Pawan%20Bisht&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Student&descSize=20&descAlignY=60" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=93C5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Building+Apps+and+Practical+Projects;Interested+in+Systems%2C+Apps+%26+Problem+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=BFDBFE&center=true&vCenter=true&width=850&lines=Building+Apps+and+Practical+Projects;Interested+in+Systems%2C+Backend+%26+Problem+Solving;Always+Learning+by+Building" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Dehradun-111827?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1D4ED8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Graduation-2027-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Dehradun-0f172a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1d4ed8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graduation-2027-38bdf8?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PawanBisht1&label=Profile%20Views&color=0ea5e9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/PawanBisht1?label=Followers&style=flat-square&color=2563eb" />
-<img src="https://img.shields.io/github/stars/PawanBisht1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=1d4ed8" />
+<img src="https://komarev.com/ghpvc/?username=PawanBisht1&label=Profile%20Views&color=2563eb&style=flat-square" />
+<img src="https://img.shields.io/github/followers/PawanBisht1?label=Followers&style=flat-square&color=1d4ed8" />
+<img src="https://img.shields.io/github/stars/PawanBisht1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0ea5e9" />
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I’m currently pursuing **B.Tech in Computer Science** at **Graphic Era Hill University, Dehradun**.  
-I enjoy building projects that combine **clean UI, practical logic, and structured backend systems**.
+I’m currently pursuing **B.Tech in Computer Science** at **Graphic Era Hill University, Dehradun**.
 
-### Currently focused on:
-- application development  
-- backend logic  
-- concurrency-related problem solving  
-- real-time communication systems  
+I like building projects that combine:
+- clean UI
+- structured backend logic
+- practical problem solving
+- real-world implementation
+
+At the moment, I’m mostly focused on learning through **hands-on building**, improving how I think about both **application development** and **system behavior**.
 
 ---
 
@@ -39,31 +40,50 @@ I enjoy building projects that combine **clean UI, practical logic, and structur
 
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,swift,js,html,css" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-</p>
+### Languages  
+<img src="https://skillicons.dev/icons?i=java,swift,js,html,css" />
 
-### Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-</p>
+</td>
+<td align="center" width="25%">
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
-</p>
+### Frameworks  
+<img src="https://skillicons.dev/icons?i=react,nodejs" /><br><br>
+<img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+### Backend / DB  
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+
+</td>
+<td align="center" width="25%">
+
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,figma,vscode" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Current%20Focus-Swift%20%26%20UIKit-111827?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Current%20Focus-Backend%20Logic-1d4ed8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Focus-Concurrency-0ea5e9?style=for-the-badge" />
 
 </div>
 
@@ -90,7 +110,7 @@ I enjoy building projects that combine **clean UI, practical logic, and structur
 <br>
 
 <div align="center">
-  <sub>Open to learning, collaborations, hackathons, and interesting projects.</sub>
+  <sub>Open to collaborations, hackathons, learning opportunities, and interesting projects.</sub>
 </div>
 
 ---
@@ -102,12 +122,14 @@ I enjoy building projects that combine **clean UI, practical logic, and structur
 
 - Built native iOS applications using **Swift** and **UIKit**
 - Developed multiple UI screens across different modules
-- Worked in a team on product-oriented development
+- Worked in a team on real-world product development
 - Followed structured design and implementation practices
 
 ---
 
 ## Projects
+
+<div align="center">
 
 <table>
 <tr>
@@ -158,6 +180,8 @@ I enjoy building projects that combine **clean UI, practical logic, and structur
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## GitHub Overview
@@ -176,5 +200,5 @@ I enjoy building projects that combine **clean UI, practical logic, and structur
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:1e293b,65:1d4ed8,100:38bdf8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=0:0b1120,25:172554,55:1d4ed8,100:38bdf8" width="100%" />
 </div>
