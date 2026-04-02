@@ -8,11 +8,6 @@
 <img src="https://img.shields.io/badge/Graduation-2027-0EA5E9?style=for-the-badge" />
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PawanBisht1&label=Profile%20Views&color=0ea5e9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/PawanBisht1?label=Followers&style=flat-square&color=2563eb" />
-<img src="https://img.shields.io/github/stars/PawanBisht1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=1d4ed8" />
-
 </div>
 
 ---
