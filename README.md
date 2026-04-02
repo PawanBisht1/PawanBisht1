@@ -61,10 +61,6 @@ I enjoy building practical projects and learning through hands-on development. I
   <img src="https://img.shields.io/badge/Email-bishtpawan63980%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/PawanBisht1">
-  <img src="https://img.shields.io/badge/GitHub-PawanBisht1-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Bisht-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
